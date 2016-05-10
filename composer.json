@@ -1,0 +1,14 @@
+{
+    "name": "gc/lib",
+    "description": "CSS, Javascript e Fonts",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alan Ribeiro",
+            "email": "alan.gustavo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
